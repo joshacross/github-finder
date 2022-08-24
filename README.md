@@ -1,3 +1,34 @@
+# Github Finder
+
+## Description
+
+A serverless React App that allows a user to search GitHub profiles and see profile details. Built by Joshua Cross.
+
+<i>Credit: This project is part of the <a href="https://www.udemy.com/course/modern-react-front-to-back/">Brad Traversy course from Udemy.<a></i>
+
+Allows a user to search for Github profiles and visit a statistical overview of their profile page. Deployed on Vercel
+
+## Languages/Packages/Third-Party APIs
+
+React
+Javascript
+CSS
+HTML
+JSX
+Tailwind CSS
+PostCSS
+DaisyUI
+Github API
+Axios
+Vercel
+
+## Website
+
+<a href="https://github-finder-e7z22kcjd-joshacross.vercel.app/">Visit Website</a>
+
+<img src="./assets/app.png" alt="search users page">
+<img src="./assets/profile.png" alt="profile page">
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
